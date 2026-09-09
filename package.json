@@ -1,0 +1,16 @@
+{
+  "name": "hvac-priority-tracker",
+  "version": "0.1.0",
+  "description": "Lightweight browser-based HVAC maintenance priority tracker for facility managers",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "open": "open index.html"
+  },
+  "keywords": [
+    "hvac",
+    "maintenance",
+    "facility-management"
+  ],
+  "license": "UNLICENSED"
+}
