@@ -10,7 +10,7 @@ There is no quick, reliable way for a facility manager to see which HVAC units n
 
 ## Solution
 
-A lightweight, single-page web tool where a facility manager enters basic information for each HVAC unit — location, unit type, install date, and last service date — and the tool automatically calculates and displays a maintenance priority status: **Overdue**, **Due Soon**, or **Fine**. Status is calculated using standard maintenance intervals based on unit type, informed by Trane's publicly available maintenance guidance (e.g., annual service for air handlers and central AC systems; twice-yearly service for packaged rooftop units).
+A lightweight, single-page web tool where a facility manager enters basic information for each HVAC unit — location, unit type, install date, and last service date — and the tool automatically calculates and displays a maintenance priority status: Overdue, Due Soon, or Within planned interval. Status is calculated from the time elapsed since the last service, using a uniform 182-day (~6-month) interval derived from Trane's publicly available guidance recommending a minimum of twice-annual preventive service.
 
 ## Core Workflow
 
