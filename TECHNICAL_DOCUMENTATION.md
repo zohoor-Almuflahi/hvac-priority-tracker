@@ -47,7 +47,7 @@ No `src/` directory, build config, or dependency manifest beyond `package.json` 
 2. Open `index.html` directly in any modern browser — no installation required.
 3. Alternatively, run `npx serve .` from the project root (per the `start` script in `package.json`) to serve it over `localhost` instead of the `file://` protocol.
 
-**To access the deployed version: https://github.com/zohoor-Almuflahi/hvac-priority-tracker 
+**To access the deployed version: https://zohoor-almuflahi.github.io/hvac-priority-tracker/ 
 
 No environment variables, API keys, or external services are required.
 
