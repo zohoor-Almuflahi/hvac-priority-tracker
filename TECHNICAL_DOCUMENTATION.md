@@ -1,3 +1,4 @@
+
 # Technical Documentation
 ## HVAC Maintenance Priority Tracker
 
@@ -46,7 +47,7 @@ No `src/` directory, build config, or dependency manifest beyond `package.json` 
 2. Open `index.html` directly in any modern browser — no installation required.
 3. Alternatively, run `npx serve .` from the project root (per the `start` script in `package.json`) to serve it over `localhost` instead of the `file://` protocol.
 
-**To access the deployed version:** *(live link to be added once deployed via GitHub Pages)*
+**To access the deployed version: https://github.com/zohoor-Almuflahi/hvac-priority-tracker 
 
 No environment variables, API keys, or external services are required.
 
