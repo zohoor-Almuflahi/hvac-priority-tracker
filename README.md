@@ -2,7 +2,7 @@
 
 A lightweight, browser-based tool that helps facility managers see which commercial HVAC units need service soonest. Built for the Trane Technologies × IBM SkillsBuild micro-internship.
 
-**Live demo:** https://zohoor-almuflahi.github.io/hvac-priority-tracker/
+**Live demo:** https://github.com/zohoor-Almuflahi/hvac-priority-tracker
 
 > This tool is for maintenance prioritization only. It is not made, approved, endorsed, or operated by Trane Technologies.
 
